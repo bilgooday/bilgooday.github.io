@@ -41,6 +41,10 @@ body {
   border-right: none;
 }
 
+#menu a:hover {
+  color: #5DADE2;
+}
+
 hr {
   margin: 0 auto;
   padding: 0;
