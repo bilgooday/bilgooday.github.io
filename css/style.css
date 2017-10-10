@@ -200,6 +200,11 @@ nav ul a {
     z-index:1200; /* makes sure it stays on top */
 }
 
+#letter-logo {
+  height: 50px;
+  margin-top: 20px;
+}
+
 #status {
     width:200px;
     height:200px;
