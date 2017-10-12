@@ -48,7 +48,7 @@
 
 .span_h2 {font-weight: 300;color: #2196F3;}
 
-.text_b{color: white;}
+.text_b{color: rgba(71,	150,	236,	1);}
 
 .in{font-weight: 400 !important; font-style: normal !important;}
 
@@ -246,10 +246,14 @@ nav a.button-collapse {
     text-align: center;
 }
 
-.card-avatar .card-content {
-    text-align: center;
+.card-avatar {
+    float: center;
 }
 
+#card-container {
+  display: flex;
+  justify-content: center;
+}
 
 .card .card-content p {
     margin: 15px 0px;
