@@ -259,6 +259,11 @@ nav a.button-collapse {
   justify-content: center;
 }
 
+#resume-button {
+  margin: 25px;
+  background-color: green;
+}
+
 .card .card-content p {
     margin: 15px 0px;
 }
