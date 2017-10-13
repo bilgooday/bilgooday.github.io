@@ -5557,12 +5557,13 @@ small {
   overflow: hidden;
   margin: 0.5rem 0 1rem 0;
   background-color: #fff;
+  margin: 15px 15px 0 15px;
   transition: box-shadow .25s;
   border-radius: 2px; }
   .card .card-title {
     color: #fff;
     font-size: 24px;
-    font-weight: 300; }
+    font-weight: 350; }
     .card .card-title.activator {
       cursor: pointer; }
   .card.small, .card.medium, .card.large {

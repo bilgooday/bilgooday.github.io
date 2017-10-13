@@ -250,6 +250,10 @@ nav a.button-collapse {
     float: center;
 }
 
+.projects-card {
+  border-radius: 10px;
+}
+
 #card-container {
   display: flex;
   justify-content: center;
