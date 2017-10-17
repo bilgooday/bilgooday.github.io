@@ -74,17 +74,10 @@ if(isset($_POST['email'])) {
 
 	@mail($email_to, $email_subject, $email_message, $headers);
 
+  header('Location: contact-thank-you.html');
+
 
 ?>
-
-
-
-<!-- include your own success html here -->
-
-
-
-Thank you for contacting me, I'll get in touch with you shortly!
-
 
 
 <?php

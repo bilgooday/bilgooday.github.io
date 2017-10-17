@@ -13,12 +13,23 @@
   background-color: black;
 }
 
-
 #index-banner {
     min-height: 632px;
     max-height: 864px;
     position: relative;
     background-color: #2196F3;
+}
+
+#thank-you {
+  color: white;
+  background-color: rgba(71,	150,	236,	1);
+  margin: 150px 25px 0 25px;
+  text-align: center;
+}
+
+#thank-you-logo {
+  height: 100px;
+  margin-top: 100px;
 }
 
 #nav_f{
@@ -257,11 +268,17 @@ nav a.button-collapse {
 #card-container {
   display: flex;
   justify-content: center;
+  margin-bottom: 35px;
 }
 
 #resume-button {
-  margin: 25px;
-  background-color: green;
+  background-color: rgba(71,	150,	236,	1);
+  color: white;
+  width: 150px;
+}
+
+#resume-button:hover {
+  background-color: rgba(71,	150,	236,	.7);
 }
 
 .card .card-content p {
